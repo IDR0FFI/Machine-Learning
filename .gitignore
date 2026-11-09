@@ -1,0 +1,5 @@
+*/build/
+
+# Model
+# */dataset/  ;; could make a unified form
+RBM/mnist/
